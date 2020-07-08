@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CategoryNames</key>
+	<array>
+		<string>Popular</string>
+		<string>Live</string>
+		<string>Animals</string>
+		<string>Blur</string>
+		<string>Bokeh</string>
+		<string>Cars</string>
+		<string>Cities</string>
+		<string>Movie &amp; TV</string>
+		<string>Flowers</string>
+		<string>Gaming</string>
+		<string>Illustrations</string>
+		<string>Minimal</string>
+		<string>Mountains</string>
+		<string>Patterns</string>
+		<string>Sea</string>
+		<string>Sky</string>
+		<string>Space</string>
+		<string>Sports</string>
+	</array>
+	<key>Categories</key>
+	<array>
+		<string>daily-best</string>
+		<string>live</string>
+		<string>animal</string>
+		<string>blur</string>
+		<string>bokeh</string>
+		<string>car</string>
+		<string>city</string>
+		<string>film</string>
+		<string>flower</string>
+		<string>game</string>
+		<string>illustration</string>
+		<string>minimal</string>
+		<string>mountain</string>
+		<string>pattern</string>
+		<string>sea</string>
+		<string>sky</string>
+		<string>space</string>
+		<string>sports</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,57 @@
+
+/* Class = "UILabel"; text = "Sorry, but you need to watch the video to save your wallpaper and keep this cute ghost happy!"; ObjectID = "2YA-sc-KEr"; */
+"2YA-sc-KEr.text" = "Sorry, but you need to watch the video to save your wallpaper and keep this cute ghost happy!";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "33L-0T-b8Y"; */
+"33L-0T-b8Y.normalTitle" = "OK";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "6au-10-sQ9"; */
+"6au-10-sQ9.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GVx-Um-wSQ"; */
+"GVx-Um-wSQ.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "I6L-bR-gEB"; */
+"I6L-bR-gEB.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "JLJ-4w-Kca"; */
+"JLJ-4w-Kca.normalTitle" = "X";
+
+/* Class = "UILabel"; text = "Your wallpaper has been successfully saved to your photos"; ObjectID = "JyO-eX-e6E"; */
+"JyO-eX-e6E.text" = "Your wallpaper has been successfully saved to your photos";
+
+/* Class = "UIButton"; normalTitle = "Ok, I'll Watch it"; ObjectID = "L5G-EF-NrL"; */
+"L5G-EF-NrL.normalTitle" = "Ok, I'll Watch it";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "Mi3-ku-Hgl"; */
+"Mi3-ku-Hgl.normalTitle" = "X";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "MuR-os-8Lw"; */
+"MuR-os-8Lw.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "NF4-yI-gn7"; */
+"NF4-yI-gn7.normalTitle" = "X";
+
+/* Class = "UILabel"; text = "Copyrights"; ObjectID = "WQE-7p-Xod"; */
+"WQE-7p-Xod.text" = "Copyrights";
+
+/* Class = "UILabel"; text = "Popular"; ObjectID = "ZkH-7G-GI1"; */
+"ZkH-7G-GI1.text" = "Popular";
+
+/* Class = "UILabel"; text = "Premium Content"; ObjectID = "ayo-GK-Uc2"; */
+"ayo-GK-Uc2.text" = "Premium Content";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cY5-s0-Ee9"; */
+"cY5-s0-Ee9.text" = "Label";
+
+/* Class = "UILabel"; text = "Saving live wallpapers is only available for paid users. Click Unlock below to unlock this feature"; ObjectID = "cvD-pJ-Chp"; */
+"cvD-pJ-Chp.text" = "Saving live wallpapers is only available for paid users. Click Unlock below to unlock this feature";
+
+/* Class = "UILabel"; text = "Saved"; ObjectID = "osZ-GB-dQh"; */
+"osZ-GB-dQh.text" = "Saved";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "pvT-10-LH7"; */
+"pvT-10-LH7.normalTitle" = "X";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "uyM-XC-a2b"; */
+"uyM-XC-a2b.normalTitle" = "X";
